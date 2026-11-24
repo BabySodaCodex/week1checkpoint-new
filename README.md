@@ -1,4 +1,5 @@
 # week1checkpoint-new
+https://babysodacodex.github.io/week1checkpoint-new/
 ## My setup
 - Operating system:
 - Editor: VS Code
